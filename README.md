@@ -13,6 +13,8 @@ In this project, a Star Notary dapp is developed which allows users to create th
 ## Run the dapp
 
 1. Install Nodejs and Metamask chrome extension with accounts set up
-2. Open a terminal and cd to ```app``` 
-3. run ```npm install web3``` and  ```npm install --save-dev webpack```
-4. run ```npm run dev``` and go to http://localhost:8080/ in your Chrome browser
+2. Open a terminal and cd into ```Decentalized-Star-Notary``` 
+3. creat and save your Metamask mnemonic in a text file and name it as .secret
+3. run ```npm install truffle-hdwallet-provider```
+4. cd into ```app``` , then run ```npm install web3``` and  ```npm install --save-dev webpack```
+5. run ```npm run dev``` and go to http://localhost:8080/ in your Chrome browser
