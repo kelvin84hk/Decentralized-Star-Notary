@@ -11,3 +11,8 @@ In this project, a Star Notary dapp is developed whcih allows users to creat the
 5. Token Address on the Rinkeby Network : 0x1F1495c0FfBe683d5D4F6b4B022f827c635d0bE2
 
 ## Run the dapp
+
+1. Install Nodejs and Metamask chrome extenstion with accounts set up
+2. Open a terminal and cd to ```app``` 
+3. run ```npm install web3``` and  ```"npm install --save-dev webpack```
+4. run ```npm run dev``` and goto http://localhost:8080/ in your Chrome browser
