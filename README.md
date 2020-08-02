@@ -1,8 +1,8 @@
 # Decentralized Star Notary
 
-In this project, a Star Notary dapp is developed which allows users to create their own stars and look up the name of star for the correspondng ID. It is deployed to Rinkeby Public Network.
+In this project, a Star Notary dapp is developed which allows users to create their own stars and look up the name of star for the corresponding ID. It is deployed to Rinkeby Public Network.
 
-## Information for reviwers
+## Information for reviewer
 
 1. Truffle version : v5.1.14-nodeLTS.0 (core: 5.1.13)
 2. OpenZeppelin version : v2.1.2
@@ -12,7 +12,7 @@ In this project, a Star Notary dapp is developed which allows users to create th
 
 ## Run the dapp
 
-1. Install Nodejs and Metamask chrome extenstion with accounts set up
+1. Install Nodejs and Metamask chrome extension with accounts set up
 2. Open a terminal and cd to ```app``` 
 3. run ```npm install web3``` and  ```npm install --save-dev webpack```
 4. run ```npm run dev``` and goto http://localhost:8080/ in your Chrome browser
