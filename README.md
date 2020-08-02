@@ -14,5 +14,5 @@ In this project, a Star Notary dapp is developed whcih allows users to creat the
 
 1. Install Nodejs and Metamask chrome extenstion with accounts set up
 2. Open a terminal and cd to ```app``` 
-3. run ```npm install web3``` and  ```"npm install --save-dev webpack```
+3. run ```npm install web3``` and  ```npm install --save-dev webpack```
 4. run ```npm run dev``` and goto http://localhost:8080/ in your Chrome browser
