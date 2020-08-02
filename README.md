@@ -1,6 +1,6 @@
 # Decentralized Star Notary
 
-In this project, a Star Notary dapp is developed whcih allows users to creat their own stars and look up the name of star for the correspondng ID. It is deployed to Rinkeby Public Network.
+In this project, a Star Notary dapp is developed which allows users to create their own stars and look up the name of star for the correspondng ID. It is deployed to Rinkeby Public Network.
 
 ## Information for reviwers
 
